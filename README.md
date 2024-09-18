@@ -1,7 +1,7 @@
 
 
 <div align="center">
-   <h1> 🟡 PacBoom-Points earn soft 🟡 </h1>
+   <h1> 🟡 Blast Gold earn soft 🟡 </h1>
 </div>
 
 
